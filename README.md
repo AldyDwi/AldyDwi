@@ -1,5 +1,5 @@
 # 💫 About Me:
-Saya seorang mahasiswa yang tertarik dengan web development
+I am a student majoring in informatics who has expertise in developing web-based applications using CodeIgniter 4/Laravel, JQuery, Bootstrap/Tailwind CSS, and MySQL. In addition, I am also interested in data science and have attended training and certification in that field. I am used to working in teams and independently, and always strive to provide effective solutions through technology.
 
 
 ## 🌐 Socials:
